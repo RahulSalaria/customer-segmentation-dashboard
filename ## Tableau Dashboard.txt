@@ -1,0 +1,2 @@
+## Tableau Dashboard
+You can view the Tableau dashboard [here](https://public.tableau.com/app/profile/rahul.salaria/viz/customersegmentationdashboard_17337652556050/Dashboard1?publish=yes).
